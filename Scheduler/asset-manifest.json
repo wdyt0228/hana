@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hana/Scheduler/static/css/main.5bd305d2.css",
+    "main.js": "/hana/Scheduler/static/js/main.0092a8f3.js",
+    "static/js/787.89eaf1e5.chunk.js": "/hana/Scheduler/static/js/787.89eaf1e5.chunk.js",
+    "static/media/rol.png": "/hana/Scheduler/static/media/rol.21e3f99baf7835b31953.png",
+    "index.html": "/hana/Scheduler/index.html",
+    "main.5bd305d2.css.map": "/hana/Scheduler/static/css/main.5bd305d2.css.map",
+    "main.0092a8f3.js.map": "/hana/Scheduler/static/js/main.0092a8f3.js.map",
+    "787.89eaf1e5.chunk.js.map": "/hana/Scheduler/static/js/787.89eaf1e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd305d2.css",
+    "static/js/main.0092a8f3.js"
+  ]
+}
