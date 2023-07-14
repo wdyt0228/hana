@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hana/WordsTest/static/css/main.c433dca3.css",
-    "main.js": "/hana/WordsTest/static/js/main.2ddb841b.js",
+    "main.js": "/hana/WordsTest/static/js/main.b144c6d3.js",
     "static/js/787.79b570ed.chunk.js": "/hana/WordsTest/static/js/787.79b570ed.chunk.js",
     "static/media/bg.png": "/hana/WordsTest/static/media/bg.473f2915ef29bbff611e.png",
     "static/media/bg_kuromi.png": "/hana/WordsTest/static/media/bg_kuromi.2a70a33060792f8f2cb0.png",
@@ -10,11 +10,11 @@
     "static/media/perfect.png": "/hana/WordsTest/static/media/perfect.55cbd81d8cac0ad82dc1.png",
     "index.html": "/hana/WordsTest/index.html",
     "main.c433dca3.css.map": "/hana/WordsTest/static/css/main.c433dca3.css.map",
-    "main.2ddb841b.js.map": "/hana/WordsTest/static/js/main.2ddb841b.js.map",
+    "main.b144c6d3.js.map": "/hana/WordsTest/static/js/main.b144c6d3.js.map",
     "787.79b570ed.chunk.js.map": "/hana/WordsTest/static/js/787.79b570ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c433dca3.css",
-    "static/js/main.2ddb841b.js"
+    "static/js/main.b144c6d3.js"
   ]
 }
